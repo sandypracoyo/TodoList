@@ -13,7 +13,7 @@ DATABASE_NAME = todolist
 ```
 Using frontend
 ```
-npm run serve
+npm run dev
 ```
 Using backend
 ```
